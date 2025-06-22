@@ -34,7 +34,7 @@ public class Repository<T>:IRepository<T> where T : class,IEntityBase,new()
 
     public async Task AddAsync(T entity)
     {
-        await Table.AddAsync(entity);
+        await Table.AddAsync(entity);  
     }
 
     public async Task<T> GetAsync(Expression<Func<T, bool>>? predicate, params Expression<Func<T, object>>[] includeProperties)
