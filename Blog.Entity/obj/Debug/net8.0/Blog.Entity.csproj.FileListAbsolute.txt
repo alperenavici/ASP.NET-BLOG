@@ -1,0 +1,15 @@
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/bin/Debug/net8.0/Blog.Entity.deps.json
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/bin/Debug/net8.0/Blog.Entity.dll
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/bin/Debug/net8.0/Blog.Entity.pdb
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/bin/Debug/net8.0/Blog.Core.dll
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/bin/Debug/net8.0/Blog.Core.pdb
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.csproj.AssemblyReference.cache
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.AssemblyInfoInputs.cache
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.AssemblyInfo.cs
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.csproj.CoreCompileInputs.cache
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Ent.4E135DA9.Up2Date
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.dll
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/refint/Blog.Entity.dll
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/Blog.Entity.pdb
+/Users/alperenavci/RiderProjects/Blog.Web/Blog.Entity/obj/Debug/net8.0/ref/Blog.Entity.dll
