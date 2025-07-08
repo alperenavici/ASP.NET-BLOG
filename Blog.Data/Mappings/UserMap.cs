@@ -67,8 +67,15 @@ public class UserMap:IEntityTypeConfiguration<AppUser>
             UserName = "admin",
             NormalizedUserName = "ADMIN",
             Email = "admin@gmail.com",
-            NormalizedEmail = "ADMIN",
+            NormalizedEmail = "ADMIN@GMAIL.COM",
+            PhoneNumber = "+1234567890",
+            FirstName = "Alp",
+            LastName = "Avcı",
+            EmailConfirmed = true,
+            SecurityStamp = Guid.NewGuid().ToString()
         };
+        admin.PasswordHash = CreatePasswordHash(admin,"admin");
+        builder.HasData(admin,superadmin);
     }
 
     private string CreatePasswordHash(AppUser user, string password)
